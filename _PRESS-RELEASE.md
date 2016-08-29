@@ -18,27 +18,38 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Pocket Accountant
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  A simple accounting app that tracks user submitted credits and debits.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  Pocket Accountant will be able to keep track your paychecks and expenditures (so long as you input them into the app).  It can give you up to date information on your current finances, and help you track your savings.  Pocket Accountant's success comes from its ability to organize and display your information clearly and concisely.
 
 ## Problem ##
   > Describe the problem your product solves.
+  	It can be a pain to track your finances without a solid knowledge of excell or the organizational skills to keep your financial information clear and informitive.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  The app will automate what is possible and prompt the user for inputs when needed.  It takes organization into its own hands such that the user only has to set up the app, and remember to log irregular payments.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  "This app rulez"
+
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  The app is easy to use and guides the user through setting up their account.  
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  "Pocket Accountant saved me so much time.  I'll never use Excell again!"
+  "I use Pocket Accountant all the time.  I fired my old accountant because Pocket Accountant is faster, easier to use, and doesn't try to steal my billions."
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Head over to the appstore and try it out.  It's free!
